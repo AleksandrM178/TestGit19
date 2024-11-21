@@ -54,4 +54,11 @@ void PrintSum()
     Console.WriteLine("another program");
     Console.WriteLine("another program");
     Console.WriteLine("another program");
+    Console.WriteLine("Hello Aleksandr");
+    //1
+    //2
+    //3
+    //4
+    //5
+
 }
