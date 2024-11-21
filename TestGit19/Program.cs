@@ -5,4 +5,5 @@ Console.WriteLine("vfddfv");
 void PrintSum()
 {
     Console.WriteLine("Hello c#");
+    Console.WriteLine("another program");
 }
